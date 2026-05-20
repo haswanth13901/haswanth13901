@@ -92,18 +92,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haswanth13901&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haswanth13901&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haswanth13901&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=haswanth13901&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=haswanth13901&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haswanth13901&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haswanth13901&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+
+![](https://github-profile-trophy.vercel.app/?username=haswanth13901&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
