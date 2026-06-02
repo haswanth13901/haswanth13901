@@ -90,12 +90,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=haswanth13901&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 📝 Publication
 
 **Ramya, P., Tummala, H. C., et al. (2023).** Number Plate Recognition Using Optical Character Recognition and Connected Component Analysis. *Smart Technologies in Data Science and Communication*, Lecture Notes in Networks and Systems, Vol. 558, pp. 29–40. Springer, Singapore.
